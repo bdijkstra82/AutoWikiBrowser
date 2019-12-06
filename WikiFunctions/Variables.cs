@@ -923,6 +923,10 @@ namespace WikiFunctions
                     mSummaryTag = "menggunakan";
                     break;
 
+                case "nds-nl":
+                    mSummaryTag = "met";
+                    break;
+
                 case "ne":
                     mSummaryTag = "";
                     WPAWB = "स्वतःविकी ब्राउजर प्रयोग गर्दै";
